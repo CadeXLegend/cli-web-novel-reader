@@ -1,6 +1,7 @@
 # CLI Web Novel Reader
 
-> Technically it can read any .epub :) 
+> Technically it can read any .epub :)
+> 
 > It just downloads epubs specifically for WN's atm
 
 Cause why not
